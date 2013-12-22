@@ -1,4 +1,7 @@
 Running a custom/latest Node[.js] version on Red Hat's OpenShift PaaS
+
+(update to node v0.10.24 to run Meteor)
+
 ====================================================================
 This git repository is a sample Node application along with the
 "orchestration" bits to help you run the latest or a custom version
